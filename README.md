@@ -57,3 +57,4 @@ If csv is not found:
 | 4  | Make them pay for the room.  |
 | 4  | Remove them from the room.  |
 | 5  | Keep records of everyone who has booked in.  |
+| 6  | Keep a record of room service and charge them when they are done with their room.  |
