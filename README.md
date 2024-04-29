@@ -36,3 +36,6 @@ Hotel Room Info,
 Billing Payments,
 Record Keeping,
 Room service.
+
+## Installation
+``pip install csv``
