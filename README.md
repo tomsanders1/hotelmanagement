@@ -38,4 +38,6 @@ Record Keeping,
 Room service.
 
 ## Installation
+``import csv``
+If csv is not found:
 ``pip install csv``
