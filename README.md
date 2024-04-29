@@ -30,9 +30,9 @@ Payment()- Function for payment of hotel room and restaurant bill generation at 
 Record()- Function for keeping records of customers stayed in the hotel. 
 
 ## Client Requirements
-Login Page
-Create booking
-Hotel Room Info
-Billing Payments
-Record Keeping
-Room service
+Login Page,
+Create booking,
+Hotel Room Info,
+Billing Payments,
+Record Keeping,
+Room service.
