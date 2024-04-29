@@ -41,3 +41,19 @@ Room service.
 ``import csv``
 If csv is not found:
 ``pip install csv``
+## Task Table
+| Requirement ID  | Description |
+| ------------- | ------------- |
+| 1  | Username and password stored.  |
+| 1  | Checkuser details when entered.  |
+| 2  | Check if any rooms are available.  |
+| 2  | Create a booking.  |
+| 3  | Check the number of rooms.  |
+| 3  | Check how many rooms are taken.  |
+| 3  | Check how many people per room.  |
+| 3  | Check facilities per room.  |
+| 3  | Get price of room.  |
+| 4  | Calculate price by multiplying the price of the room * days.  |
+| 4  | Make them pay for the room.  |
+| 4  | Remove them from the room.  |
+| 5  | Keep records of everyone who has booked in.  |
